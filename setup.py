@@ -6,10 +6,10 @@ setup(
     description='GANs with spectral normalization and projection discriminator',
     url='https://github.com/tanikawa04/sngan_projection',
     packages=[
-        'source',
-        'source.functions',
-        'source.links',
-        'source.miscs'
+        'sngan_projection',
+        'sngan_projection.functions',
+        'sngan_projection.links',
+        'sngan_projection.miscs'
     ],
     install_requires=[
         'chainer>=3.3.0',
