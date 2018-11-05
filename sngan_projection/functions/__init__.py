@@ -1,0 +1,2 @@
+from sngan_projection.functions.max_sv import max_singular_value
+from sngan_projection.functions.max_sv import max_singular_value_fully_differentiable
